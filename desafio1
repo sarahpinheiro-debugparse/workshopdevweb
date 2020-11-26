@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Pavê de morango - Receita</title>
+        <meta charset='utf-8'>
+        <style>
+            .page-title {
+                color: black;
+                font-size: 60px;
+            }
+            .text {
+                color: black;
+            }
+        </style>
+    </head>
+
+    <body style=background-color:white>
+
+    <h1 class="text"><strong>Receita de Pavê de morango</strong></h1>
+
+    <img scr="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.tudogostoso.com.br%2Freceita%2F139574-pave-de-morango-da-thais.html&psig=AOvVaw0p_O162M9gxRDJPufKKf02&ust=1606517326073000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIiarMeloe0CFQAAAAAdAAAAABAD" title="Pavê de morango"/>
+
+    <p class="text">Veja como fazer pavê de morango fácil: sobremesa deliciosa e com poucos ingredientes</p>
+    
+    <h2 class="text"><strong>Ingredientes</strong></h2>
+
+    <ul class="text">
+        <li>2 latas de leite condensado
+        <li>2 latas de leite - mesma medida da lata de leite condensado
+        <li>2 latas de creme de leite
+        <li>2 bandejas de morango
+        <li>2 colheres de amido de milho
+        <li>Meio pacote de bolachas ao leite
+        <li>1 xícara de café de açúcar refinado
+        <li>2 colheres de sopa de chocolate em pó
+
+    <br>
+    <h2 class="text"><strong>Modo de Preparo - Pavê de morango</strong></h2>
+
+    <ol class="text">
+        <li>Corte os morangos em fatias, coloque em uma travessa e cubra com o açúcar e deixar descansar para formar uma calda de morango;</li>
+        <li>Coloque em uma panela o leite condensado, o leite e o amido de milho. Ferva até ficar com aparência de mingau meio grosso, depois coloque o creme de leite e misture bem;</li>
+        <li>Coloque sobre o morango em camadas alternadas o creme e a bolacha, na última camada de creme, misture o chocolate em pó com o creme e cubra o pavê;</li>
+    </ol>
+
+    <br>
+    <!-- adicionar link aqui -->
+    <a href="https://gshow.globo.com/receitas-gshow/receitas/pave-de-morango-4d512d6a52e0b252bc00cd46.ghtml">
+        Confira a receita original aqui
+    </a>
+    
+    </body>
+</html>
